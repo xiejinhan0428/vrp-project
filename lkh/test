@@ -1,0 +1,45 @@
+origin sku number:148
+picking sequence based distance: 106859
+running tsp time:68.388878ms, node:45
+lkh processed distance: 98345, improvement: 8%
+sku number after tsp:148
+origin sku number:149
+picking sequence based distance: 179227
+running tsp time:545.70254ms, node:98
+lkh processed distance: 151076, improvement: 16%
+sku number after tsp:149
+origin sku number:127
+picking sequence based distance: 142395
+running tsp time:428.732507ms, node:69
+lkh processed distance: 129253, improvement: 9%
+sku number after tsp:127
+origin sku number:131
+picking sequence based distance: 167550
+running tsp time:959.349131ms, node:85
+lkh processed distance: 150463, improvement: 10%
+sku number after tsp:131
+origin sku number:140
+picking sequence based distance: 159560
+running tsp time:968.6672ms, node:83
+lkh processed distance: 135603, improvement: 15%
+sku number after tsp:140
+origin sku number:128
+picking sequence based distance: 120299
+running tsp time:72.909298ms, node:50
+lkh processed distance: 106537, improvement: 11%
+sku number after tsp:128
+origin sku number:111
+picking sequence based distance: 126735
+running tsp time:630.686901ms, node:61
+lkh processed distance: 112669, improvement: 11%
+sku number after tsp:111
+origin sku number:186
+picking sequence based distance: 179825
+running tsp time:2.204389307s, node:94
+lkh processed distance: 162609, improvement: 10%
+sku number after tsp:186
+origin sku number:139
+picking sequence based distance: 159440
+running tsp time:1.081183697s, node:78
+lkh processed distance: 143478, improvement: 10%
+sku number after tsp:139
